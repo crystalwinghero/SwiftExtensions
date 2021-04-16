@@ -1,3 +1,3 @@
 # SwiftExtensions
 
-A description of this package.
+A bunch of frequently used swift extensions.
